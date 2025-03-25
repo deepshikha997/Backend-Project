@@ -2,5 +2,6 @@
 .env
 .env.*
 /.vscode
-/nodemodules
+/node_modules
 ./dist
+.readmefile.txt

@@ -31,3 +31,13 @@ In package.json file Type:module
 When server reload then server start and stop to smoothly run server we add utility nodemon package for server help in reload server
 we take dev dependencies because we take in developement but not in production in terminal --> npm i -D nodemon
 In package.json file scripts -->dev : nodemon src/index.js
+
+We use Prettier --> Code formatter which help in project
+npm i -D Prettier add file in project after prettier .prettierignore 
+.prettierrc -->{
+  "singleQoute": false,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "semi": true
+}
