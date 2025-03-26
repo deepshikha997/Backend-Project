@@ -41,3 +41,9 @@ npm i -D Prettier add file in project after prettier .prettierignore
   "trailingComma": "es5",
   "semi": true
 }
+
+Connecting with server Mongodb --> using mongodb Atlas Server using shared database 
+created a database with video project in mongodb atlas
+
+Whenever you want to talk with database use try catch approach or promises (resolve reject)
+Database is another contient that take time so we need to use async await 
