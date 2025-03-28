@@ -1,1 +1,3 @@
-# Backend series With Project
+# Backend series Learning With Chai and Code
+I learned about complex backend projects built with Node.js, Express.js, mongodb, mongoose, JWT, bcrypt, and many more. This project is a complete backend project that has all the features that a backend project should have.  Building a complete video hosting website similar to YouTube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more.
+The project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens, and many more. Learned a lot new things in building this project.
