@@ -1,9 +1,11 @@
 import { Router } from "express";
-import { loginUser,logoutUser, registerUser ,
+import { 
+  loginUser,
+  logoutUser,
+  registerUser ,
   refreshAccessToken,
   changeCurrentPassword,
   getCurrentUser,
-  updateAccountDetails,
   updateUserAvatar,
   updateUserCoverImage,
   getUserChannelProfile,
